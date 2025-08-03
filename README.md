@@ -1,74 +1,68 @@
-<!-- Banner Image -->
+<!-- Header / Typing Intro -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=220&section=header&text=Akalanka%20Rathnayaka&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Akalanka+Rathnayaka;Final+Year+Computer+Science+Student;Flutter+%7C+Firebase+%7C+React+Developer;AI+%26+ML+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Open+Source+Lover+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
 
-<!-- Intro -->
-<h2 align="center">👋 Hi there! I'm Akalanka Rathnayaka</h2>
-
+<!-- Code animation or Developer image -->
 <p align="center">
-🚀 Final Year Computer Science Student |💻 Full Stack & Mobile App Developer
+  <img src="https://i.imgur.com/MTFvJ6P.gif" width="270" alt="developer coding gif" />
 </p>
 
----
-
-## 🧠 About Me
-- 🎓 Final year undergraduate in Computer Science
-- 🛠️ Developed full-scale mobile & web apps like:
-  - **Motivo** (Garage Automation App)
-  - **Stylora** (eCommerce Clothing Site)
-  - **MedicAid** (Healthcare App for Medicine Scarcity in Sri Lanka)
-  - **Elephant Pulse** (Big Data + ML for Collision Prediction)
-- 📫 Reach me at: **[akalanka.rathnayaka@gmail.com](mailto:akalanka.rathnayaka@gmail.com)**
-
----
-
-## ⚒️ Tech Stack
-
+<!-- Tech Stack Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,react,js,nodejs,mongodb,html,css,python,cpp,git,figma" />
 </p>
 
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
+
 ---
 
-## 📌 Projects
+## 👨‍💻 About Me
 
-| Project      | Tech Used | Description |
-|--------------|-----------|-------------|
-| **Motivo** 🚗 | Flutter, Firebase | Mobile app for garage automation, real-time service updates, customer feedback & payments |
-| **MedicAid** 💊 | Firebase, React Native | Helps locate medicine availability across pharmacies in Sri Lanka |
-| **Stylora** 👗 | React, MongoDB, Node | Full-stack clothing eCommerce site with login/cart/payments |
-| **Elephant Pulse** 🐘 | Spark, Snowflake, Scikit-learn | ML-based collision prediction using 10+ years of data |
+- 🎓 Final Year Computer Science Undergraduate   
+- 💡 Always eager to learn and solve real-world problems   
+- 📫 Reach me via: [LinkedIn](https://linkedin.com/in/your-link) | [Portfolio](https://your-portfolio.com) | [Email](mailto:your@email.com)
 
-> 🔗 GitHub links coming soon...
+---
+
+## 🚀 Projects Showcase
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Motivo** | Mobile app for garage automation with real-time updates | Flutter, Firebase |
+| **Elephant Pulse** | Big Data + ML system to predict elephant-train collisions | Apache Spark, Snowflake, Sklearn |
+| **Stylora** | eCommerce clothing website | MERN Stack |
+| **MedicAid** | Mobile app to bridge healthcare gaps in Sri Lanka | Firebase, Flutter, REST API |
+
+🔗 GitHub repo links and videos available on my [Portfolio](https://your-portfolio.com)
+
+---
+
+## 🛠️ Tech Skills
+
+- **Languages:** Dart, JavaScript, C++, Python  
+- **Frameworks & Libraries:** Flutter, React.js, Node.js, Express  
+- **Databases:** Firebase, MongoDB, Snowflake  
+- **Tools & Platforms:** Git, VS Code, Figma, Netlify, Firebase Hosting
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akalanka07&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akalanka07&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react" height="150" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophy Case
+## 📬 Let's Connect!
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akalanka07&theme=onestar&row=1&column=7" />
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-12100E?logo=vercel&style=for-the-badge" /></a>
 </p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/akalanka-rathnayaka" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:akalanka.rathnayaka@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/AkalankaRathnayaka"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
-</p>
-
----
-
-<p align="center">🧠 Keep Building. Keep Learning. Keep Sharing.</p>
