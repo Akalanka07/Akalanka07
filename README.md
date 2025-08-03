@@ -28,9 +28,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Final Year Computer Science Undergraduate  
-- 🔧 Passionate about **mobile app development**, **web apps**, and **AI/ML**  
+- 🔧 Passionate about **mobile app development**, **web apps**  
 - 💡 Always eager to learn and solve real-world problems  
-- 🌐 Actively contributing to **open-source** and team projects  
 - 📫 Reach me via: [LinkedIn](https://linkedin.com/in/your-link) | [Portfolio](https://your-portfolio.com) | [Email](mailto:your@email.com)
 
 ---
@@ -66,7 +65,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkalankaRathnayaka&theme=onestar&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akalanka07&theme=onestar&row=1&column=7" />
 </p>
 ---
 
