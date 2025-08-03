@@ -1,7 +1,8 @@
 <!-- Header / Colorful Animated Banner with Code and Icons -->
 <p align="center">
-  <img src="https://github.com/Akalanka07/Akalanka07/blob/main/assets/ChatGPT%20Image%20Aug%203%2C%202025%2C%2004_40_39%20PM.png" alt="Advanced Banner" />
+  <img src="https://github.com/Akalanka07/Akalanka07/blob/main/assets/ChatGPT%20Image%20Aug%203%2C%202025%2C%2004_40_39%20PM.png" alt="Advanced Banner" width="60%" />
 </p>
+
 
 <!-- Typing Intro -->
 <p align="center">
