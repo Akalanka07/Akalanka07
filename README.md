@@ -1,4 +1,9 @@
-<!-- Header / Typing Intro -->
+<!-- Header / Colorful Animated Banner with Code and Icons -->
+<p align="center">
+  <img src="https://github.com/AkalankaRathnayaka/AkalankaRathnayaka/assets/your-image-id/banner-animated.gif" alt="Advanced Banner" />
+</p>
+
+<!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Akalanka+Rathnayaka;Final+Year+Computer+Science+Student;Flutter+%7C+Firebase+%7C+React+Developer;AI+%26+ML+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Open+Source+Lover+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
@@ -22,8 +27,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year Computer Science Undergraduate   
-- 💡 Always eager to learn and solve real-world problems   
+- 🎓 Final Year Computer Science Undergraduate  
+- 🔧 Passionate about **mobile app development**, **web apps**, and **AI/ML**  
+- 💡 Always eager to learn and solve real-world problems  
+- 🌐 Actively contributing to **open-source** and team projects  
 - 📫 Reach me via: [LinkedIn](https://linkedin.com/in/your-link) | [Portfolio](https://your-portfolio.com) | [Email](mailto:your@email.com)
 
 ---
