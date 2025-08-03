@@ -9,12 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Akalanka+Rathnayaka;Final+Year+Computer+Science+Student;Flutter+%7C+Firebase+%7C+React+Developer;AI+%26+ML+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Open+Source+Lover+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
 
-<!-- Code animation or Developer image -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6QAnKNRliQNk0/giphy.gif" width="270" alt="developer coding gif" />
-</p>
-
 <!-- Tech Stack Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,react,js,nodejs,mongodb,html,css,python,cpp,git,figma" />
