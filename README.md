@@ -7,20 +7,18 @@
 <h2 align="center">👋 Hi there! I'm Akalanka Rathnayaka</h2>
 
 <p align="center">
-🚀 Final Year Computer Science Student | 🧠 AI/ML Enthusiast | 💻 Full Stack & Mobile App Developer
+🚀 Final Year Computer Science Student |💻 Full Stack & Mobile App Developer
 </p>
 
 ---
 
 ## 🧠 About Me
 - 🎓 Final year undergraduate in Computer Science
-- 👨‍💻 Passionate about Flutter, Firebase, React, Node.js, and ML
 - 🛠️ Developed full-scale mobile & web apps like:
   - **Motivo** (Garage Automation App)
   - **Stylora** (eCommerce Clothing Site)
   - **MedicAid** (Healthcare App for Medicine Scarcity in Sri Lanka)
   - **Elephant Pulse** (Big Data + ML for Collision Prediction)
-- 🔭 Currently working on: AI-based Education System
 - 📫 Reach me at: **[akalanka.rathnayaka@gmail.com](mailto:akalanka.rathnayaka@gmail.com)**
 
 ---
@@ -49,8 +47,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkalankaRathnayaka&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkalankaRathnayaka&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akalanka07&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akalanka07&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -58,7 +56,7 @@
 ## 🏆 GitHub Trophy Case
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkalankaRathnayaka&theme=onestar&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akalanka07&theme=onestar&row=1&column=7" />
 </p>
 
 ---
