@@ -9,8 +9,9 @@
 </p>
 
 <!-- Code animation or Developer image -->
+
 <p align="center">
-  <img src="https://i.imgur.com/MTFvJ6P.gif" width="270" alt="developer coding gif" />
+  <img src="https://media.giphy.com/media/3o7aD6QAnKNRliQNk0/giphy.gif" width="270" alt="developer coding gif" />
 </p>
 
 <!-- Tech Stack Icons -->
